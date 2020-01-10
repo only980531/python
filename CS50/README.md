@@ -1,1 +1,1 @@
-[qs][abc](https://www.youtube.com/watch?v=TZRWRjq2CAg
+[qs](https://www.youtube.com/watch?v=TZRWRjq2CAg
