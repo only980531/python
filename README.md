@@ -158,3 +158,60 @@
 
 
 
+# <img width="40" height="40" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E5%BD%A9%E8%99%B9.png?raw=true"/> 資料結構演算法每次作業
+--------
+# HW1
+
+>[Quick Sort 程式碼](https://github.com/only980531/python/blob/master/QuickSort.ipynb)
+>
+>[Quick Sort 流程圖](https://github.com/06170125/Learning_code/blob/master/HW1/quicksort%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
+
+# HW2
+
+>[Merge Sort 程式碼](https://github.com/only980531/python/blob/master/HW2/%E6%96%B0merge_sort_06170124.py)
+>
+>[Merge Sort 流程圖](https://github.com/only980531/python/blob/master/%E7%A1%AC%E4%BB%B62/merge%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+>
+>[Heap Sort 程式碼](https://github.com/only980531/python/blob/master/HW2/%E6%96%B0heap_sort_06170124%20(1).py)
+>
+>[Heap Sort 流程圖](https://github.com/only980531/python/blob/master/%E7%A1%AC%E4%BB%B62/heap1.jpg)
+>
+>[Heap Sort v.s. Merge Sort](https://github.com/06170125/Learning_code/blob/master/HW2/merge%26heap%E6%AF%94%E8%BC%83.py)
+
+# HW3
+
+>[Binary Search Tree 程式碼](https://github.com/only980531/python/blob/master/HW3/binary_search_tree_06170124.py)
+>
+>[Binary Search Tree 流程圖](https://github.com/only980531/python/blob/master/HW3/%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B.ipynb)
+>
+>[Binary Search Tree 功能說明](https://github.com/only980531/python/blob/master/HW3/%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.ipynb)
+
+# HW4
+
+>[Hash Table 程式碼](https://github.com/only980531/python/blob/master/HW4/hash_table_06170124.py)
+>
+>[Hash Table 流程圖](https://github.com/only980531/python/blob/master/HW4/%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B.ipynb)
+
+# HW5
+
+>[BFS 程式碼](https://github.com/only980531/python/blob/master/HW5/BFS_06170124.py)
+>
+>[BFS 流程圖](https://github.com/only980531/python/blob/master/HW5/word.ipynb)
+>
+>[DFS 程式碼](https://github.com/only980531/python/blob/master/HW5/BFS_06170124.py)
+>
+>[DFS 流程圖](https://github.com/only980531/python/blob/master/HW5/word.ipynb)
+>
+>[BFS v.s. DFS](https://github.com/only980531/python/blob/master/HW5/word.ipynb)
+
+
+# HW6
+
+>[Dijkstra 程式碼](https://github.com/only980531/python/blob/master/HW6/Dijkstra_06170124.py)
+>
+>[Dijkstra 流程圖](https://github.com/only980531/python/blob/master/HW6/%E6%88%91%E4%B8%8D%E8%A1%8C%E4%BA%86.ipynb)
+>
+>[Krustal 程式碼](https://github.com/only980531/python/blob/master/HW6/Dijkstra_06170124.py)
+>
+>[Krustal 流程圖](https://github.com/only980531/python/blob/master/HW6/%E6%88%91%E4%B8%8D%E8%A1%8C%E4%BA%86.ipynb)
+
