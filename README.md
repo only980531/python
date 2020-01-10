@@ -1,5 +1,9 @@
 # About Me
->我叫做林宏霖，綽號是呱呱
+>我叫做林宏霖，綽號是呱呱。
+>
+>我喜歡打排球，最喜歡的食物是芒果
+>
+>我有一個很可愛的女友 <img width="20" height="20" src="https://github.com/06170125/Learning_code/blob/master/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%BC%94%E7%AE%97%E6%B3%95/%E6%84%9B%E5%BF%83.png?raw=true"/>
 
 # Week1
 
