@@ -40,4 +40,6 @@ Week17
 
 Week18
 
-[HW1]()
+[HW1](https://github.com/only980531/python/blob/master/QuickSort.ipynb)
+
+
