@@ -1,45 +1,39 @@
-# python
+# Week1
 
-交作業
-[quicksort]
-(https://nbviewer.jupyter.org/github/only980531/python/blob/master/QuickSort.ipynb)
+# Week2
 
-Week1
+# Week3
 
-Week2
+# Week4
 
-Week3
+# Week5
 
-Week4
+# Week6
 
-Week5
+# Week7
 
-Week6
+# Week8
 
-Week7
+# Week9
 
-Week8
+# Week10
 
-Week9
+# Week11
 
-Week10
+# Week12
 
-Week11
+# Week13
 
-Week12
+# Week14
 
-Week13
+# Week15
 
-Week14
+# Week16
 
-Week15
+# Week17
 
-Week16
+# Week18
 
-Week17
-
-Week18
-
-
+# Leetcode
 
 
